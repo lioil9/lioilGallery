@@ -1,2 +1,2 @@
 # lioilGallery
-self galkery
+self gallery
